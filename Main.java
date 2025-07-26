@@ -19,7 +19,7 @@ public class Main {
 
     Scanner scanner = new Scanner(System.in);
 
-
+    String sout = "new Sout right?";
     System.out.println("******************************************");
     System.out.println("WELCOME TO THE BANK!");
     System.out.println("******************************************");
